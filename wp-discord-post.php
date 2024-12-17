@@ -2,17 +2,17 @@
 /**
  * WP Discord Post Plus
  *
- * @author      Developer Hero
+ * @author      Abandoned Plugins
  * @license     GPL-2.0+
  *
  * Plugin Name: WP Discord Post Plus
- * Plugin URI:  https://developerhero.net/plugins/wp-discord-post-plus/
+ * Plugin URI:  http://abandoned-plugins.com
  * Description: A Discord integration that sends a message on your desired Discord server and channel for every new post published.
  * Based on the original plugin WP Discord Post by Nicola Mustone, which is available on the WordPress Directory.
  *
- * Version:     1.0.2
- * Author:      Developer Hero
- * Author URI:  https://developerhero.net/
+ * Version:     1.0.3
+ * Author:      Abandoned Plugins
+ * Author URI:  http://abandoned-plugins.com
  * Text Domain: wp-discord-post-plus
  *
  * WC tested up to: 3.5

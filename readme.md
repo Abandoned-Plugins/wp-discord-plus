@@ -78,4 +78,8 @@ The plugin is free. There's no lock-ins or paid promotions needed. However, if y
 * Renamed All (the default category) to Default to avoid confusion 
 * Minor Fixes
 
+= 1.0.3 =
+* Compatibility update for WordPress up to 6.7
+
+
 

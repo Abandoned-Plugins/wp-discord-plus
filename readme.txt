@@ -1,9 +1,9 @@
 === WP Discord Post Plus -  Supports Unlimited Channels ===
-Contributors: mymizan, orchestra, wpimtiaz 
+Contributors: mymizan 
 Tags: discord, post, publish, server, chat, gaming, streaming, community, blog, woocommerce, cryptocurrency, cryptocurrency blog, gaming blog
 Requires at least: 4.4
-Tested up to: 5.2
-Stable tag: 1.0.2
+Tested up to: 6.7
+Stable tag: 1.0.3
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -81,3 +81,6 @@ The plugin is free. There's no lock-ins or paid promotions needed. However, if y
 * Fixed issue with disable embed content
 * Renamed All (the default category) to Default to avoid confusion 
 * Minor Fixes
+
+= 1.0.3 =
+* Compatibility update for WordPress up to 6.7
